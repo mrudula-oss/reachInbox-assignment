@@ -1,3 +1,10 @@
+#DEMO video link
+
+
+👉  https://drive.google.com/file/d/1w9PBJVAmqBjAvKm4kV08I5SFxnlh7QWv/view?usp=drivesdk
+
+
+
 # ReachInbox Email Scheduler
 
 A production-grade email scheduler service and dashboard, mimicking a slice of the ReachInbox system.
