@@ -1,0 +1,4 @@
+src/controllers/auth.controller.ts(2,30): error TS2307: Cannot find module 'google-auth-library' or its corresponding type declarations.
+src/controllers/auth.controller.ts(3,17): error TS2307: Cannot find module 'jsonwebtoken' or its corresponding type declarations.
+src/controllers/auth.controller.ts(4,10): error TS2305: Module '"../config"' has no exported member 'googleClientId'.
+src/controllers/auth.controller.ts(4,26): error TS2305: Module '"../config"' has no exported member 'jwtSecret'.

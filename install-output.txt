@@ -1,0 +1,26 @@
+﻿node.exe : npm verbose cli C:\Program Files\nodejs\node.exe C:\Program 
+Files\nodejs\node_modules\npm\bin\npm-cli.js
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm verbose cli...\bin\npm-cli.js 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm info using npm@11.17.0
+npm info using node@v24.19.0
+npm verbose title npm install
+npm verbose argv "install" "--no-audit" "--no-fund" "--progress" "false" 
+"--loglevel" "verbose"
+npm verbose logfile logs-max:10 
+dir:C:\Users\mrudu\AppData\Local\npm-cache\_logs\2026-08-06T17_19_31_071Z-
+npm verbose logfile C:\Users\mrudu\AppData\Local\npm-cache\_logs\2026-08-06T17_
+19_31_071Z-debug-0.log
+
+up to date in 7s
+npm verbose cwd C:\Users\mrudu\Desktop\REACHBOX-ASSIGNMENT
+npm verbose os Windows_NT 10.0.26200
+npm verbose node v24.19.0
+npm verbose npm  v11.17.0
+npm verbose exit 0
+npm info ok
